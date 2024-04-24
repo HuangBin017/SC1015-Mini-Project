@@ -23,3 +23,6 @@ We decided to then use an additional dropout layer, which randomly drops 20% of 
 - https://www.datacamp.com/tutorial/cnn-tensorflow-python
 - https://www.kaggle.com/code/prashant111/random-forest-classifier-feature-importance
 - https://www.youtube.com/watch?v=bDhvCp3_lYw
+- https://seaborn.pydata.org/generated/seaborn.violinplot.html
+- https://seaborn.pydata.org/generated/seaborn.catplot.html
+
