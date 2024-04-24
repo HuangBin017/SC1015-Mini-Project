@@ -2,5 +2,7 @@
 ## Problem Statement
 ## Dataset
 ## Approach
+## Folder
+## Conclusion
 ## Contributors
 ## References
