@@ -7,7 +7,7 @@
 The dataset we used is from Kaggle https://www.kaggle.com/datasets/winson13/dataset-for-link-phishing-detection. This dataset is designed for phishing link detection, containing various features extracted from the URL, the domain, and the  HTML content. 
 ## Approach
 - Feature selection: Correlation, Random Forest Classifier
-- Models Used for Machine Learning: Convolutional Neural Network(CNN)
+- Models Used for Machine Learning: Convolutional Neural Network(CNN), CNN with dropout layers
 ## Folder
 ### Data Cleaning.ipynb
   The code in this notebook is used to clean the original dataset from Kaggle(dataset_link_phishing.csv). By cleaning abnormal data and duplicate data, we reduce the shape of the dataset from 19431* 87 to 15420*84, gaining a new clean dataset.
