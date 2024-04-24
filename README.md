@@ -1,7 +1,7 @@
 # SC1015-Mini-Project
 ## Problem Statement
 - To predict phishing links from data available
-- How to improve CNN as a predictor
+- Which model is better for our purpose, CNN/Classifier
 
 ## Dataset
 The dataset we used is from Kaggle https://www.kaggle.com/datasets/winson13/dataset-for-link-phishing-detection. This dataset is designed for phishing link detection, containing various features extracted from the URL, the domain, and the  HTML content. 
