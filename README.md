@@ -14,7 +14,8 @@ The dataset we used is from Kaggle https://www.kaggle.com/datasets/winson13/data
 ### Feature Selection (Random Tree Forest).ipynb
   Because there are still 84 columns (81 features) in the new dataset, we use Random Forest to select the top 10 most relevant features. After dropping the rest of the features, the accuracy of the model has been improved.
 ### Datavisualisation (selected_dataset ).ipynb
-
+The code in this notebook is used to visualise the data in the dataset.
+  We used the boxplot, histogram, violin plots, correlation matrix, pairplot and category plot to see the realationship between the data types to predict the frequency of the phishing links in the data.
 ### ML Neural Network.ipynb
 
 We decided to explore something we have not tried before in class to help solve our problem, using a Convolutional Neural Network(CNN).
@@ -31,7 +32,7 @@ We decided to then use an additional dropout layer, which randomly drops 20% of 
 - We can quite confidently predict phishing links - 95% accuracy, but false negatives still exist which is likely why link detectors are not widely used as we would still need to manually check for false negatives.
 ## Contributors
 - Data Cleaning, Feature Selection(Random Tree Forest) - Chua Hui Ting Sharon
-
+- Data Visualisation(selected_dataset) - Avantika Rajesh Pillai
 - ML Neural Network - Huang Bin
 ## References
 - https://www.baeldung.com/cs/ml-relu-dropout-layers
