@@ -10,7 +10,7 @@ The dataset we used is from Kaggle https://www.kaggle.com/datasets/winson13/data
 - Models Used for Machine Learning: Convolutional Neural Network(CNN)
 ## Folder
 - Data Cleaning.ipynb
-  The code in this notebook is used to clean the original dataset from Kaggle(dataset_link_phishing.csv). By cleaning abnormal data and duplicate data, we reduce the shape of the dataset from 19431* 87 to 15420*84, gaining a clean dataset.
+  The code in this notebook is used to clean the original dataset from Kaggle(dataset_link_phishing.csv). By cleaning abnormal data and duplicate data, we reduce the shape of the dataset from 19431* 87 to 15420*84, gaining a new clean dataset.
 - ML Neural Network.ipynb
 
 We decided to explore something we have not tried before in class to help solve our problem, using a Convolutional Neural Network(CNN).
