@@ -17,4 +17,5 @@ We decided to then use an additional dropout layer, which randomly drops 20% of 
 ## References
 - https://www.baeldung.com/cs/ml-relu-dropout-layers
 - https://www.datacamp.com/tutorial/cnn-tensorflow-python
-- 
+- https://www.kaggle.com/code/prashant111/random-forest-classifier-feature-importance
+- https://www.youtube.com/watch?v=bDhvCp3_lYw
