@@ -1,5 +1,8 @@
 # SC1015-Mini-Project
 ## Problem Statement
+To predict whether we can detect phishing in the links
+which model is the best to predict phishing
+
 ## Dataset
 The dataset we used is from Kaggle https://www.kaggle.com/datasets/winson13/dataset-for-link-phishing-detection. This dataset is designed for phishing link detection, containing various features extracted from the URL, the domain, and the  HTML content. 
 ## Approach
