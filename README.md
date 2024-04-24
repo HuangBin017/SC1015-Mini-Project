@@ -27,7 +27,9 @@ We were able to create a CNN model with a train:test ratio of 0.75:0.25, however
 We decided to then use an additional dropout layer, which randomly drops 20% of the neurons in the 256 layer to reduce dependency on each neuron which will hopefully reduce overfitting.
 ### ML Random Forest Classifier.ipynb
  We decided to explore classifier solutions and used a Random Forest Classifier after finding the issue of overfitting in CNN.
+ 
  Since the optimal depth of a decision tree can be difficult to determine, we created multiple models with varying max depths to find out which is optimal.
+ 
  We also experimented with different max depths for the trees to find the optimal model with the highest test accuracy.
 ## Conclusion
 - If a link exists in the first 10 pages in google, it is likely not a phishing link
