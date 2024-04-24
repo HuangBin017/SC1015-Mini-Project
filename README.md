@@ -21,6 +21,10 @@ We were able to create a CNN model with a train:test ratio of 0.75:0.25, however
 
 We decided to then use an additional dropout layer, which randomly drops 20% of the neurons in the 256 layer to reduce dependency on each neuron which will hopefully reduce overfitting.
 ## Conclusion
+- If a link exists in the first 10 pages in google, it is likely not a phishing link
+- A suspicious domain surprisingly has little correlation with whether it is phishing or not
+- CNN struggles with low number of inputs like 10 labels as it is likely to produce overfitting
+- We can quite confidently predict phishing links - 95% accuracy, but false negatives still exist which is likely why link detectors are not widely used as we would still need to manually check for false negatives.
 ## Contributors
 ## References
 - https://www.baeldung.com/cs/ml-relu-dropout-layers
