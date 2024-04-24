@@ -30,6 +30,8 @@ We decided to then use an additional dropout layer, which randomly drops 20% of 
 - CNN struggles with low number of inputs like 10 labels as it is likely to produce overfitting
 - We can quite confidently predict phishing links - 95% accuracy, but false negatives still exist which is likely why link detectors are not widely used as we would still need to manually check for false negatives.
 ## Contributors
+- Data Cleaning, Feature Selection(Random Tree Forest) - Chua Hui Ting Sharon
+
 - ML Neural Network - Huang Bin
 ## References
 - https://www.baeldung.com/cs/ml-relu-dropout-layers
