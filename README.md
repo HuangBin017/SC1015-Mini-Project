@@ -7,7 +7,7 @@ Which model is the best to predict phishing
 The dataset we used is from Kaggle https://www.kaggle.com/datasets/winson13/dataset-for-link-phishing-detection. This dataset is designed for phishing link detection, containing various features extracted from the URL, the domain, and the  HTML content. 
 ## Approach
 ## Folder
-ML Neural Network.ipynb
+- ML Neural Network.ipynb
 We decided to explore something we have not tried before in class to help solve our problem, using a Convolutional Neural Network(CNN).
 
 CNN is a form of machine learning that uses layers of hidden neurons representing weights on certain features to predict a result from an input. In our case, from our feature selection we found the 10 labels most correlated to our result and fed those data into a neural network model with 2 hidden layers of 128 and 256 neurons.
