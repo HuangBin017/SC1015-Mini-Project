@@ -32,11 +32,11 @@ We also experimented with different max depths for the trees to find the optimal
 - If a link exists in the first 10 pages in google, it is likely not a phishing link
 - A suspicious domain surprisingly has little correlation with whether it is phishing or not
 - CNN struggles with low number of inputs like 10 labels as it is likely to produce overfitting
-- We can quite confidently predict phishing links - 95% accuracy, but false negatives still exist which is likely why link detectors are not widely used as we would still need to manually check for false negatives
+- We can quite confidently predict phishing links - 98% accuracy, but false negatives still exist which is likely why link detectors are not widely used as we would still need to manually check for false negatives
 ## Contributors
-- Data Cleaning, Feature Selection(Random Tree Forest) - Chua Hui Ting Sharon
+- Data Cleaning, Feature Selection(Random Tree Forest), ML Random Forest Classifier - Chua Hui Ting Sharon
 - Data Visualisation(selected_dataset) - Avantika Rajesh Pillai
-- ML Neural Network - Huang Bin
+- ML Neural Network, ML Random Forest Classifier - Huang Bin
 ## References
 - https://www.baeldung.com/cs/ml-relu-dropout-layers
 - https://www.datacamp.com/tutorial/cnn-tensorflow-python
